@@ -1,0 +1,5 @@
+{
+  "name": "FinVise AI Advisor",
+  "description": "A sophisticated AI-powered financial assistant specializing in investment account guidance, providing real-time data and comparisons for 401(k)s, IRAs, and brokerage accounts.",
+  "requestFramePermissions": []
+}
